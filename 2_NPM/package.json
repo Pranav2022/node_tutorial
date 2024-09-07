@@ -1,0 +1,15 @@
+{
+  "name": "2_npm",
+  "version": "1.0.0",
+  "description": "this is a demo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav",
+  "license": "ISC",
+  "dependencies": {
+    "2_npm": "file:",
+    "figlet": "^1.7.0"
+  }
+}
